@@ -17,5 +17,6 @@ public class TestServiceImpl {
         list.add("пять");
         list.add("шесть");
         list.add("семь");
+        list.add("восемь");
     }
 }
