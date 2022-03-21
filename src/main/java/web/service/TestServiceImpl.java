@@ -10,12 +10,15 @@ public class TestServiceImpl {
     }
 
     public void initList() {
-        list.add("один");
-        list.add("два");
-        list.add("три");
-        list.add("четыре");
-        list.add("пять");
-        list.add("шесть");
-        list.add("семь");
+        list.add("Один");
+        list.add("Два");
+        list.add("Три");
+        list.add("Четыре");
+        list.add("Пять");
+        list.add("Шесть");
+        list.add("Семь");
+        list.add("Восемь");
+        list.add("Девять");
+        list.add("Десять");
     }
 }
